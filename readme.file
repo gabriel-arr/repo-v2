@@ -1,0 +1,8 @@
+git clone clonaba el repositorio
+git add agrega cambios (con el . agrega todos los cambios)
+git commit -m "mensaje" agrega cambios en un paquete llamado mensaje
+git push empuja el paquete a git hub 
+git checkout -b genera una nueva rama
+git checkout cambia entre ramas
+git pull baja los cambios
+git status informa sobre el estado del repositorio
